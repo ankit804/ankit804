@@ -39,20 +39,6 @@ Software
 I prefer learning by **building**, breaking things, figuring out why they broke, and improving them.
 
 ---
-
-## 🎯 Long-Term Goal
-
-Become an **AI Engineer** and build software that is genuinely useful—not just projects that look good in a portfolio.
-
----
-
-## 📊 GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankit804&show_icons=true&hide_border=true&rank_icon=github" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit804&layout=compact&hide_border=true" height="165">
-</p>
-
 ---
 
 ## 📫 Connect
