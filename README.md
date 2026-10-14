@@ -16,14 +16,13 @@ I started with Python and gradually moved into web development, building project
 
 ## 🚀 Featured Projects
 
-| Project                          | Description                         | Tech                |
-| -------------------------------- | ----------------------------------- | ------------------- |
-| 🎬 **Movie Explorer**            | Explore movies using the TMDB API   | React               |
-| 👤 **GitHub Profile Explorer**   | Search and explore GitHub profiles  | React               |
-| 🧠 **Flashcard App**             | Interactive flashcards for learning | React               |
-| 📚 **Library Management System** | Manage books and student records    | Python · PostgreSQL |
-
----
+| Project | Description | Tech Stack |
+|---|---|---|
+| 🎬 **Movie Explorer** | Discover and explore movies using the TMDB API | React · REST API |
+| 👤 **GitHub Profile Explorer** | Search GitHub users and explore their public profiles | React · GitHub API |
+| ✅ **Todo App** | Manage daily tasks with completion tracking, deletion, and creation dates | React · CSS |
+| 🧠 **Flashcard App** | Create and review interactive flashcards for learning | React |
+| 📚 **Library Management System** | Manage books, student records, and library transactions | Python · PostgreSQL |
 
 ## 💻 What I Like Building
 
