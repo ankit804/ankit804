@@ -47,7 +47,7 @@ I prefer learning by **building**, breaking things, figuring out why they broke,
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/ankit-kumar-gupta-2b3276432/">
-    <img src="https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjk4Mi1kMS0xMC5wbmc.png"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGjF6kDUdLq-xcBeBONWxBg7PoJKJf5aW8OLSiZw4W7fMNkNx7BSaf-8FN&s=10"/>
   </a>
 </p>
 
