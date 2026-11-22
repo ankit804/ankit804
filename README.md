@@ -42,7 +42,7 @@ I prefer learning by **building**, breaking things, figuring out why they broke,
 
 ## 📫 Connect
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/ankit804">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
